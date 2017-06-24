@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Update subreddit CSS on repository push",
   "main": "lib/index.js",
+  "bin": "bin/subredditcss.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
