@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AcceptableIce/subreddit-css-listener.git"
+    "url": "git+https://github.com/Corvimae/subreddit-css-listener.git"
   },
-  "author": "@AcceptableIce",
+  "author": "@Corvimae",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AcceptableIce/subreddit-css-listener/issues"
+    "url": "https://github.com/Corvimae/subreddit-css-listener/issues"
   },
-  "homepage": "https://github.com/AcceptableIce/subreddit-css-listener#readme",
+  "homepage": "https://github.com/Corvimae/subreddit-css-listener#readme",
   "dependencies": {
     "github": "^9.2.0",
     "github-webhook-handler": "^0.6.0",
